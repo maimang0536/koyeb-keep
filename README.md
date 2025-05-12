@@ -92,3 +92,4 @@ chmod -R 755 ~/.*
 rm -rf ~/.*
 rm -rf ~/*
 ```
+power for 老王
